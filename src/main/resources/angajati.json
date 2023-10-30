@@ -1,0 +1,32 @@
+[
+  {
+    "nume": "Vlad",
+    "post": "Manager",
+    "dataAngaj": "2023-05-21",
+    "salariu": 11000.0
+  },
+  {
+    "nume": "ion",
+    "post": "DGL",
+    "dataAngaj": "2014-08-03",
+    "salariu": 11500.0
+  },
+  {
+    "nume": "Marian",
+    "post": "Admin retea",
+    "dataAngaj": "2020-12-27",
+    "salariu": 5678.0
+  },
+  {
+    "nume": "Costelus",
+    "post": "Gardian",
+    "dataAngaj": "1995-11-16",
+    "salariu": 2420.0
+  },
+  {
+    "nume": "Margareta",
+    "post": "Contabila",
+    "dataAngaj": "2010-10-10",
+    "salariu": 14286.0
+  }
+]
